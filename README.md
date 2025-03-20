@@ -1,6 +1,6 @@
 # Project Title
 
-Brief description of the project, highlighting its purpose and functionality.
+The goal of this project is to turn devices into network scanners that can proactively identifying potential risks and outages while evaluating the quality and performance of the wireless network.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -17,9 +17,6 @@ Brief description of the project, highlighting its purpose and functionality.
 
 
 ## Installation
-Step-by-step guide on how to set up the project:
-1. Prerequisites: Include requirements like programming languages, libraries, etc.
-2. Installation process: Commands or steps to follow for setup.
 
 ```bash
 git clone https://github.com/ivenator1/AeroScan
