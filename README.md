@@ -22,10 +22,8 @@ Step-by-step guide on how to set up the project:
 2. Installation process: Commands or steps to follow for setup.
 
 ```bash
-# Example commands
-git clone https://github.com/username/repo-name.git
-cd repo-name
-npm install
+git clone https://github.com/ivenator1/AeroScan
+cd AeroScan
 ```
 ## Usage
 
